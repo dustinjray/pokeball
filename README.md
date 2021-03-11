@@ -1,11 +1,10 @@
-#About
+#Product Landing Page
+[View Page](https://dustinjray.github.io/pokeball)
+##Inspiration
+This started as a FreeCodeCamp project to make a landing page, but I couldn't come up with images for a fake product to make a page for, so I ended up doing a (mostly) visual copy of The Wand Company's Pokéball Replica page. I did use the inspector to help determine some margins and break points.
 
-This started as the FreeCodeCamp landing page project, but it morphed into copying the landing page of The Wand Company's Pokéball replica, which I found to be a better learning experience.
+## Credits
+[The Wand Company - Pokéball Replica](https://www.thewandcompany.com/pokeball/) - original page
 
-This was mostly a visual copy, though I did use the inspector to determine some margins and breakpoints. 
+[Cupcake Lorem](https://www.cupcakeipsum.com)
 
-The original webpage may be found here: https://www.thewandcompany.com/pokeball/
-
-My copy may be viewed here: https://dustinjray.github.io/pokeball
-
-Cupcake Lorem obtained from: http://www.cupcakeipsum.com/
